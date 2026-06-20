@@ -1,4 +1,4 @@
-# Tekkivo-Society — private commit tracker
+# mrlexcoder_pvt — private commit tracker
 
 This **public** repo mirrors server sync commits from the private repo  
 `mrlexcoder/Tekkivo-Society`.
