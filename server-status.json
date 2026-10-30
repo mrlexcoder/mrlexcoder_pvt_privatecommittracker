@@ -1,0 +1,25 @@
+{
+  "generated_at_utc": "2026-10-30T16:28:41Z",
+  "server": {
+    "uptime_seconds": 1203165,
+    "load_average": [
+      11.77,
+      12.07,
+      9.53
+    ],
+    "memory_used_percent": 45.6,
+    "root_disk_used_percent": 63
+  },
+  "tekkivo": {
+    "service": "active",
+    "http_status": {
+      "home": 200,
+      "marketplace": 200,
+      "featured_product": 200
+    }
+  },
+  "logs_last_3m": {
+    "warning_or_higher_count": 0,
+    "error_or_higher_count": 0
+  }
+}
