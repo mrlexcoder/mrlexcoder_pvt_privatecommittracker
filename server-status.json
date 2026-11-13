@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-11-13T15:22:35Z",
+  "generated_at_utc": "2026-11-13T15:25:36Z",
   "server": {
-    "uptime_seconds": 286673,
+    "uptime_seconds": 286853,
     "load_average": [
+      0.26,
       0.3,
-      0.36,
-      0.27
+      0.26
     ],
     "memory_used_percent": 35.6,
     "root_disk_used_percent": 45
