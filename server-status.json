@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-11-18T09:03:57Z",
+  "generated_at_utc": "2026-11-18T09:06:57Z",
   "server": {
-    "uptime_seconds": 695954,
+    "uptime_seconds": 696134,
     "load_average": [
+      0.47,
       0.35,
-      0.22,
-      0.21
+      0.27
     ],
-    "memory_used_percent": 37.8,
+    "memory_used_percent": 37.1,
     "root_disk_used_percent": 45
   },
   "tekkivo": {
